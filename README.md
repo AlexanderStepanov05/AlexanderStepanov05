@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderStepanov05)](https://github.com/AlexanderStepanov05/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStepanov05&layout=compact)](https://github.com/AlexanderStepanov05/github-readme-stats)
 <!---
 AlexanderStepanov05/AlexanderStepanov05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
