@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Alexander Stepanov
 - 👀 I’m interested in Java Development
 - 🌱 I’m currently learning Java, Hibernate, Spring Boot, Spring Cloud
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderStepanov05)](https://github.com/AlexanderStepanov05/github-readme-stats)
 
