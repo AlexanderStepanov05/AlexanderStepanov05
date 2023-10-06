@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexander Stepanov
 - 👀 I’m interested in Java Development
 - 🌱 I’m currently learning Java, Hibernate, Spring Boot, Spring Cloud
--I have an experience in Spring Boot, Spring Cloud, HashiCorp Vault, Docker, Git
+- I have an experience in Spring Boot, Spring Cloud, HashiCorp Vault, Docker, Git
 
 
 [![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderStepanov05)](https://github.com/AlexanderStepanov05/github-readme-stats)
