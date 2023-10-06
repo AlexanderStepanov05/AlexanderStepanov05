@@ -11,10 +11,11 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStepanov05&layout=compact"/></a>
 </p>
 
+<!---
 [![codewars](https://www.codewars.com/users/AlexanderStepanov05/badges/large)](https://www.codewars.com/users/AlexanderStepanov05)
 
 [![Alexander's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AlexanderStepanov05)](https://github.com/AlexanderStepanov05/leetcode-stats)
-
+--->
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/AlexanderStepanov05/github-profile-views-counter">
