@@ -9,6 +9,13 @@
 -  HashiCorp Vault
 -  Docker, Git
 
+### Wishlist of technologies
+- Hibernate
+- Gradle
+- Kafka
+- MongoDB, Redis
+- RabbitMQ
+- k8s
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=AlexanderStepanov05&show_icons=true&count_private=true">
