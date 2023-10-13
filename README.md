@@ -3,11 +3,12 @@
 - 🌱 I’m currently learning Java, Hibernate, Spring Boot, Spring Cloud
 
 ## 🛠 Technical Stack
-- Java language
+- Java Core language
 - PostgreSQL
 - Spring Boot, Spring Cloud
+-  Docker
+-  Git
 -  HashiCorp Vault
--  Docker, Git
 
 ### Wishlist of technologies
 - Hibernate
