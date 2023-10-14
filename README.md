@@ -13,6 +13,7 @@
 ### Wishlist of technologies
 - Hibernate
 - Gradle
+- Spring WebFlux
 - Kafka
 - MongoDB, Redis
 - RabbitMQ
