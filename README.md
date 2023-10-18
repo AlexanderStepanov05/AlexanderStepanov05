@@ -32,14 +32,13 @@
 [![codewars](https://www.codewars.com/users/AlexanderStepanov05/badges/large)](https://www.codewars.com/users/AlexanderStepanov05)
 
 [![Alexander's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AlexanderStepanov05)](https://github.com/AlexanderStepanov05/leetcode-stats)
---->
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/AlexanderStepanov05/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=AlexanderStepanov05&color=DE002D">
    </a>
 </div>
-<!---
+
 AlexanderStepanov05/AlexanderStepanov05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
