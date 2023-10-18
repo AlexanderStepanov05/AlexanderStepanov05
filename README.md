@@ -5,7 +5,7 @@
 ## 🛠 Technical Stack
 - Java Core language
 - PostgreSQL
-- Spring Boot, Spring Cloud
+- Spring Boot, Spring Cloud, Spring Data
 -  Docker
 -  Git
 -  HashiCorp Vault
