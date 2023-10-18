@@ -6,18 +6,20 @@
 - Java Core language
 - PostgreSQL
 - Spring Boot, Spring Cloud, Spring Data
--  Docker
--  Git
--  HashiCorp Vault
+- Docker
+- Git
+- HashiCorp Vault
 
 ### Wishlist of technologies
 - Hibernate
 - Gradle
 - Spring WebFlux
 - Kafka
-- MongoDB, Redis
+- MongoDB, Redis, Clickhouse
 - RabbitMQ
 - k8s
+- Elasticsearch
+- Jenkins
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=AlexanderStepanov05&show_icons=true&count_private=true">
