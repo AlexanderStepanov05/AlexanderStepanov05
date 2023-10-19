@@ -19,6 +19,7 @@
 - MongoDB, Redis, Clickhouse
 - RabbitMQ
 - k8s
+- Gitlab CI
 - Elasticsearch
 - Jenkins
 
