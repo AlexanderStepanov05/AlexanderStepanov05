@@ -6,6 +6,7 @@
 - Java Core language
 - PostgreSQL
 - Spring Boot, Spring Cloud, Spring Data
+- JDBC, JPA
 - Docker
 - Git
 - HashiCorp Vault
