@@ -26,7 +26,7 @@
    <a href="https://github-readme-stats.vercel.app/api?username=AlexanderStepanov05&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=AlexanderStepanov05&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/AlexanderStepanov05/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStepanov05&size_weight=0.5&count_weight=0.5&layout=compact"/></a>
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStepanov05&size_weight=0.5&count_weight=0.5&layout=compact"/></a>
 </p>
 
 <!---
