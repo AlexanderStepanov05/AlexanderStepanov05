@@ -6,13 +6,12 @@
 - Java Core language
 - PostgreSQL
 - Spring Boot, Spring Cloud, Spring Data
-- JDBC, JPA
+- JDBC, JPA, Hibernate
 - Docker
 - Git
 - HashiCorp Vault
 
 ### Wishlist of technologies
-- Hibernate
 - Gradle
 - Spring WebFlux
 - Kafka
