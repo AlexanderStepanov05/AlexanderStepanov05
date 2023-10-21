@@ -7,6 +7,7 @@
 - PostgreSQL
 - Spring Boot, Spring Cloud, Spring Data
 - JDBC, JPA, Hibernate
+- Cassandra
 - Docker
 - Git
 - HashiCorp Vault
