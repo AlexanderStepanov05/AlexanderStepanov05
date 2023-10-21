@@ -7,7 +7,7 @@
 - PostgreSQL
 - Spring Boot, Spring Cloud, Spring Data
 - JDBC, JPA, Hibernate
-- Cassandra
+- Cassandra, MongoDB
 - Docker
 - Git
 - HashiCorp Vault
@@ -16,7 +16,7 @@
 - Gradle
 - Spring WebFlux
 - Kafka
-- MongoDB, Redis, Clickhouse
+- Redis, Clickhouse
 - RabbitMQ
 - k8s
 - Gitlab CI
