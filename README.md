@@ -5,7 +5,8 @@
 ## 🛠 Technical Stack
 - Java Core language
 - PostgreSQL
-- Spring Boot, Spring Cloud, Spring Data
+- Spring Boot, Spring Cloud, Spring Data, Spring Security
+- Maven, Gradle
 - JDBC, JPA, Hibernate
 - Cassandra, MongoDB
 - Docker
@@ -13,7 +14,6 @@
 - HashiCorp Vault
 
 ### Wishlist of technologies
-- Gradle
 - Spring WebFlux
 - Kafka
 - Redis, Clickhouse
