@@ -15,6 +15,7 @@
 
 ### Wishlist of technologies
 - Spring WebFlux
+- JUnit, Mockito
 - Kafka
 - Redis, Clickhouse
 - RabbitMQ
