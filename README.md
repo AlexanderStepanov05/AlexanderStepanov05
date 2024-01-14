@@ -19,8 +19,8 @@
 - Redis, Clickhouse
 - RabbitMQ
 - k8s
-- Gitlab CI
-- Elasticsearch
+- Gitlab
+- ELK stack
 - Jenkins
 
 <p align='center'>
