@@ -5,7 +5,7 @@
 ## 🛠 Technical Stack
 - Java Core language
 - PostgreSQL
-- Spring Boot, Spring Cloud, Spring Data, Spring Security
+- Spring Core, Spring MVC, Spring Boot, Spring Cloud, Spring Data, Spring Security
 - Maven, Gradle
 - JDBC, JPA, Hibernate
 - Cassandra, MongoDB
