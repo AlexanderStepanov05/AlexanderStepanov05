@@ -9,15 +9,16 @@
 - Maven, Gradle
 - JDBC, JPA, Hibernate
 - Cassandra, MongoDB
+- JUnit5, Mockito
 - Docker
 - Git
 - HashiCorp Vault
 
 ### Wishlist of technologies
 - Spring WebFlux
-- JUnit, Mockito
 - Kafka
 - Redis, Clickhouse
+- Liquibase
 - RabbitMQ
 - k8s
 - Gitlab
