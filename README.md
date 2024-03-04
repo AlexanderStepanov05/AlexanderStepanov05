@@ -24,6 +24,7 @@
 - k8s
 - Gitlab
 - ELK stack
+- Prometheus, Grafana
 - Jenkins
 
 <p align='center'>
