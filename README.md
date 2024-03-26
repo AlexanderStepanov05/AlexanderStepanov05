@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Alexander Stepanov
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java, Hibernate, Spring Boot, Spring Cloud
-- Also want to try Go, Kotlin, C++, Rust
+- Also want to try Go, Kotlin, C++, Rust and to study Computer Science
 
 ## 🛠 Technical Stack
 - Java Core language
