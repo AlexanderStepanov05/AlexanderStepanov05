@@ -19,7 +19,6 @@
 - JUnit5, Mockito
 - Docker
 - Git
-- HashiCorp Vault
 
 ### Wishlist of technologies
 - Spring WebFlux
