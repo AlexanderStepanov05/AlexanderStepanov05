@@ -40,6 +40,8 @@
       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStepanov05&size_weight=0.5&count_weight=0.5&layout=compact"/></a>
 </p>
 
+![](https://leetcard.jacoblin.cool/AlexanderStepanov05?ext=heatmap)
+
 <!---
 [![codewars](https://www.codewars.com/users/AlexanderStepanov05/badges/large)](https://www.codewars.com/users/AlexanderStepanov05)
 
