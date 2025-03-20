@@ -4,7 +4,7 @@
 - Also want to try Go, Kotlin, C++, Rust and to study Computer Science
 
 ## 🛠 Technical Stack
-- Java Core language
+- Java Core
 - PostgreSQL
 - Spring:
      - Core
