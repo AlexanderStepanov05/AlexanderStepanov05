@@ -40,12 +40,14 @@
       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStepanov05&size_weight=0.5&count_weight=0.5&layout=compact"/></a>
 </p>
 
-![](https://leetcard.jacoblin.cool/AlexanderStepanov05?ext=heatmap)
+
 
 <!---
 [![codewars](https://www.codewars.com/users/AlexanderStepanov05/badges/large)](https://www.codewars.com/users/AlexanderStepanov05)
 
 [![Alexander's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AlexanderStepanov05)](https://github.com/AlexanderStepanov05/leetcode-stats)
+
+![](https://leetcard.jacoblin.cool/AlexanderStepanov05?ext=heatmap)
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/AlexanderStepanov05/github-profile-views-counter">
