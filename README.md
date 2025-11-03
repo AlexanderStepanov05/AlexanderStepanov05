@@ -1,60 +1,54 @@
-# 👋 Hi, I’m Alexander Stepanov
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java, Hibernate, Spring Boot, Spring Cloud
-- Also want to try Go, Kotlin, C++, Rust and to study Computer Science
+<h1 align="center">Hi, I'm Alexander Stepanov 👋</h1>
+<h3 align="center">Backend Developer & Machine Learning Engineer</h3>
 
-## 🛠 Technical Stack
-- Java Core
-- PostgreSQL
-- Spring:
-     - Core
-     - MVC
-     - Boot
-     - Data
-     - Security
-     - Cloud
-- Maven, Gradle
-- JDBC, Hibernate
-- Cassandra, MongoDB
-- JUnit5, Mockito
-- Docker
-- Git
-
-### Wishlist of technologies
-- Spring WebFlux
-- Kafka
-- Redis
-- Clickhouse
-- Liquibase
-- RabbitMQ
-- Kubernetes/OpenShift
-- Gitlab
-- ELK stack
-- Prometheus, Grafana
-- Jenkins
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=AlexanderStepanov05&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=AlexanderStepanov05&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/AlexanderStepanov05/github-readme-stats">
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStepanov05&size_weight=0.5&count_weight=0.5&layout=compact"/></a>
+<p align="center">
+  <i>Bridging software engineering with intelligent systems</i>
 </p>
 
+---
 
+### 🚀 About Me
 
-<!---
-[![codewars](https://www.codewars.com/users/AlexanderStepanov05/badges/large)](https://www.codewars.com/users/AlexanderStepanov05)
+I'm a passionate developer who thrives at the intersection of robust backend systems and cutting-edge machine learning. My journey revolves around creating elegant solutions to complex problems.
 
-[![Alexander's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AlexanderStepanov05)](https://github.com/AlexanderStepanov05/leetcode-stats)
+- 🔭 **Currently**: Exploring innovative applications of ML/DL in bioinformatics
+- 🧠 **Deepening expertise**: Natural Language Processing engineering
+- 🔐 **Curious about**: Cybersecurity, penetration testing, and network attacks
+- 💡 **Philosophy**: Code should be both functional and beautiful
 
-![](https://leetcard.jacoblin.cool/AlexanderStepanov05?ext=heatmap)
+### 🛠 Tech Stack
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/AlexanderStepanov05/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=AlexanderStepanov05&color=DE002D">
-   </a>
-</div>
+**Backend Development**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-AlexanderStepanov05/AlexanderStepanov05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Machine Learning & AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 📈 Current Focus
+
+| Area | Activities |
+|------|------------|
+| **NLP Engineering** | Building and fine-tuning language models |
+| **Bioinformatics** | Applying ML to biological data challenges |
+| **Security** | Learning penetration testing fundamentals |
+| **Backend Systems** | Designing scalable microservices architecture |
+
+### 📫 Let's Connect
+
+I'm always open to discussing exciting projects, research collaborations, or just chatting about technology.
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Inkerinmaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexanderstepanov05)
+
+---
+
+<p align="center">
+  <i>Let's build something amazing together!</i>
+</p>
